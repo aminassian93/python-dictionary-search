@@ -1,3 +1,3 @@
 # python-dictionary-search
 
-### Search a words definition, even if missspelled using difflib.
+### Search a words definition, even if misspelled using difflib.
